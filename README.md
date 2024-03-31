@@ -4,4 +4,4 @@ This project is a pre-built API project using NestJS, a popular JavaScript frame
 
 # Documentation
 
-For documentation, (click here)[https://www.buddhilive.com/google-ai/how-to-implement-google-gemini-ai/]
+For documentation, [click here.](https://www.buddhilive.com/google-ai/how-to-implement-google-gemini-ai/)
